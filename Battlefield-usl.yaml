@@ -1,0 +1,44 @@
+# Battlefield / EA 平台游戏规则（美利坚链式落地）
+# 更新时间：2025-10-30
+
+# EA / Battlefield 主域
+- DOMAIN-SUFFIX,ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,eaaccess.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,easports.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,origin.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,originassets.akamaized.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,origin-a.akamaihd.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,battlefield.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,battlelog.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,battlefield-api.com,🇺🇸 美利坚-VLESS
+
+# CDN / 更新服务
+- DOMAIN-SUFFIX,akamaihd.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,akamai.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,cloudfront.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,eaassets-a.akamaihd.net,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,eamobile.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,eahelp.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,ea-cdn.com,🇺🇸 美利坚-VLESS
+
+# 登录 / 授权服务
+- DOMAIN-SUFFIX,accounts.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,login.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,signin.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,auth.api.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,oauth.ea.com,🇺🇸 美利坚-VLESS
+
+# 游戏通信 / 语音
+- DOMAIN-SUFFIX,chat.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,voice.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,telemetry.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,battlefield-telemetry.com,🇺🇸 美利坚-VLESS
+
+# 游戏匹配 / 云同步
+- DOMAIN-SUFFIX,prod.online.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,cloudsync-prod.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,assets.ea.com,🇺🇸 美利坚-VLESS
+- DOMAIN-SUFFIX,storage.googleapis.com,🇺🇸 美利坚-VLESS
+
+# IP 匹配兜底（EA 常在美国）
+- GEOIP,US,🇺🇸 美利坚-VLESS

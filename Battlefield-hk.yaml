@@ -1,0 +1,44 @@
+# Battlefield / EA 平台游戏规则（香港链式落地）
+# 更新时间：2025-10-30
+
+# EA / Battlefield 主域
+- DOMAIN-SUFFIX,ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,eaaccess.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,easports.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,origin.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,originassets.akamaized.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,origin-a.akamaihd.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,battlefield.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,battlelog.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,battlefield-api.com,🇭🇰 香港-VLESS
+
+# CDN / 更新服务
+- DOMAIN-SUFFIX,akamaihd.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,akamai.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,cloudfront.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,eaassets-a.akamaihd.net,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,eamobile.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,eahelp.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,ea-cdn.com,🇭🇰 香港-VLESS
+
+# 登录 / 授权服务
+- DOMAIN-SUFFIX,accounts.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,login.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,signin.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,auth.api.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,oauth.ea.com,🇭🇰 香港-VLESS
+
+# 游戏通信 / 语音
+- DOMAIN-SUFFIX,chat.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,voice.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,telemetry.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,battlefield-telemetry.com,🇭🇰 香港-VLESS
+
+# 游戏匹配 / 云同步
+- DOMAIN-SUFFIX,prod.online.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,cloudsync-prod.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,assets.ea.com,🇭🇰 香港-VLESS
+- DOMAIN-SUFFIX,storage.googleapis.com,🇭🇰 香港-VLESS
+
+# IP 匹配兜底（EA 常在美国）
+- GEOIP,US,🇭🇰 香港-VLESS
