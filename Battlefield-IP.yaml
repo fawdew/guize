@@ -1,0 +1,6 @@
+# Battlefield-IP.yaml
+# 更新时间：2025-11-16
+# 美国 GEOIP 兜底，确保 EA / Battlefield 连线稳定
+
+- GEOIP,US
+

@@ -1,0 +1,42 @@
+# Battlefield-Domain.yaml
+# 更新时间：2025-11-16
+# 所有 EA / Battlefield 主站、CDN、登录、游戏通信、云同步域名
+
+# EA / Battlefield 主域
+- DOMAIN-SUFFIX,ea.com
+- DOMAIN-SUFFIX,eaaccess.com
+- DOMAIN-SUFFIX,easports.com
+- DOMAIN-SUFFIX,origin.com
+- DOMAIN-SUFFIX,originassets.akamaized.net
+- DOMAIN-SUFFIX,origin-a.akamaihd.net
+- DOMAIN-SUFFIX,battlefield.com
+- DOMAIN-SUFFIX,battlelog.com
+- DOMAIN-SUFFIX,battlefield-api.com
+
+# CDN / 更新服务
+- DOMAIN-SUFFIX,akamaihd.net
+- DOMAIN-SUFFIX,akamai.net
+- DOMAIN-SUFFIX,cloudfront.net
+- DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+- DOMAIN-SUFFIX,eamobile.com
+- DOMAIN-SUFFIX,eahelp.com
+- DOMAIN-SUFFIX,ea-cdn.com
+
+# 登录 / 授权服务
+- DOMAIN-SUFFIX,accounts.ea.com
+- DOMAIN-SUFFIX,login.ea.com
+- DOMAIN-SUFFIX,signin.ea.com
+- DOMAIN-SUFFIX,auth.api.ea.com
+- DOMAIN-SUFFIX,oauth.ea.com
+
+# 游戏通信 / 语音
+- DOMAIN-SUFFIX,chat.ea.com
+- DOMAIN-SUFFIX,voice.ea.com
+- DOMAIN-SUFFIX,telemetry.ea.com
+- DOMAIN-SUFFIX,battlefield-telemetry.com
+
+# 游戏匹配 / 云同步
+- DOMAIN-SUFFIX,prod.online.ea.com
+- DOMAIN-SUFFIX,cloudsync-prod.ea.com
+- DOMAIN-SUFFIX,assets.ea.com
+- DOMAIN-SUFFIX,storage.googleapis.com
